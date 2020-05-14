@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Dizzy Danglers Project Files
+This is the Dizzy Danglers Project files for Unreal Engine 4.
 
-You can use the [editor on GitHub](https://github.com/BrokenGameplayStudios/dizzydanglers-source/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dizzy Danglers is an action arcade style, online or local competitive Hockey game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Unreal Engine
+Currently the project is being built from the ___Epic Games Launcher Version___ of __Unreal Engine__.
+- [Engine Version 4.25.0](https://www.unrealengine.com/en-US/)
 
-### Markdown
+## Contact
+- Discord - [https://discord.dizzydanglers.com](https://discord.dizzydanglers.com)
+- Email - questions@dizzydanglers.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# How to Help?
+If you're reading this then you either love hockey, or love game development!
 
-```markdown
-Syntax highlighted code block
+Currently documents are being generated such as this to put together the future workflow of this project. Feel free to join us on discord as we start there. Keep your eye's peeled for further details as it becomes available.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrokenGameplayStudios/dizzydanglers-source/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Other
+### Additional Credits
+For Authors of assets or plugins used.
