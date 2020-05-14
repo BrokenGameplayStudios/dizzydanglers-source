@@ -14,8 +14,14 @@ Currently the project is being built from the ___Epic Games Launcher Version___ 
 # How to Help?
 If you're reading this then you either love hockey, or love game development!
 
-Currently documents are being generated such as this to put together the future workflow of this project. Feel free to join us on discord as we start there. Keep your eye's peeled for further details as it becomes available.
+Currently documents are being generated such as this to put together the future workflow of this project. Feel free to join us on discord as we start there as we embark on first this _"organizing"_ phase. 
+
+Otherwise, feel free to check out our [wiki](https://github.com/BrokenGameplayStudios/dizzydanglers-source/wiki) for information on features completed or in development or join us on discord to discuss whats going on!
 
 ## Other
+### Links
+- [Broken Gameplay Studios LLC](https://www.brokengameplay.com)
+- [Dizzy Danglers Home Page](https://www.dizzydanglers.com)
+
 ### Additional Credits
-For Authors of assets or plugins used.
+tbd
